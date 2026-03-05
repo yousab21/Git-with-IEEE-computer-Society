@@ -1,3 +1,5 @@
+#here is how you start a repo with github
+
 1- i created an empty repository on my github account
 2- i cloned into it with my ssh key as iam on linux
     if i lose that key here is how i created it:
